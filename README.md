@@ -236,7 +236,7 @@ ChainRule is licensed under the MIT License (LICENSE). Feel free to use, modify,
 Contact
 Website: chainrule.fi (WIP)
 
-Email: email@chainrule.fi (mailto:email@chainrule.fi)
+Email: 779537575@qq.com 
 
 Community:
 Telegram(@carolyn_1197)
