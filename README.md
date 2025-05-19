@@ -1,5 +1,4 @@
-# chainruler
-on chain ai agent 
+
 ChainRule is a Web3 platform for automating on-chain DeFi trading with no-code, IFTTT-based rules. Built for DeFi beginners and professional traders, ChainRule enables users to create, test, and execute trading strategies across multiple blockchains (Ethereum, Solana, Celo, and more) with low Gas costs and real-time analytics. Our mission is to democratize DeFi automation, making it simple, cost-efficient, and transparent.
  Key Features:
 No-Code Rule Builder: Create trading rules (e.g., "If ETH/USDT < $2000, buy $500") without coding.
