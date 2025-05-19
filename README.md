@@ -11,15 +11,13 @@ Simulation Mode: Test strategies risk-free with virtual funds on real chain data
 
 Real-Time Analytics: Monitor prices, APY, and TVL with chain-native dashboards.
 
-Community Governance: Share strategies via NFTs and shape the platform through voting.
 
-Join our Telegram or Discord to connect with the community!
 Table of Contents
 Why ChainRule? (#why-chainrule)
 
 Features (#features)
 
-Getting Started (#getting-started)
+Getting Started (dashboard to choose the way to start)
 Prerequisites (#prerequisites)
 
 Installation (#installation)
